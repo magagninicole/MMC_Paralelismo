@@ -1,0 +1,2 @@
+C:\Users\nicol\Documents\Arquitetura 2\MMC_NoParallel\Debug\MMC_NoParallel.exe
+C:\Users\nicol\Documents\Arquitetura 2\MMC_NoParallel\Debug\MMC_NoParallel.pdb

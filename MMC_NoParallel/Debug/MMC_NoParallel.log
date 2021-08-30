@@ -1,0 +1,4 @@
+﻿  MMC_NoParallel.cpp
+C:\Users\nicol\Documents\Arquitetura 2\MMC_NoParallel\MMC_NoParallel.cpp(26,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\nicol\Documents\Arquitetura 2\MMC_NoParallel\MMC_NoParallel.cpp(47,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  MMC_NoParallel.vcxproj -> C:\Users\nicol\Documents\Arquitetura 2\MMC_NoParallel\Debug\MMC_NoParallel.exe
